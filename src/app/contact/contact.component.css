@@ -1,0 +1,14 @@
+.portcont{
+  background-color: white !important;
+  color:black !important;
+  text-align: center;
+}
+.colo{
+  color:black !important;
+}
+.lineport{
+  width: 100px;
+  height: 5px;
+  background-color: black;
+  display: inline-block;
+}

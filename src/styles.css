@@ -1,1 +1,62 @@
-/* You can add global styles to this file, and also import other style files */
+  @import "bootstrap-icons/font/bootstrap-icons.css";
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nvC{
+  background-color: #2C3E50;
+  color:white !important;
+  font-family: 'Roboto', sans-serif;
+ padding: 20px;
+}
+.txtC{
+  color:white !important;
+  font-weight: 700 !important;
+  padding: 10px !important;
+
+}
+.fontC{
+   font-size: 26px !important;
+}
+.coF{
+  background-color: #2C3E50;
+  color:white !important;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  width:100vw;
+  box-sizing: border-box;
+}
+.footC{
+  background-color: #1A252F !important;
+  color:white !important;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 5px;
+}
+.linecon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+
+}
+.line{
+  height: 5px;
+  width:100px;
+  background-color: white;
+  border-radius: 5px;
+}
+.icon{
+  font-size: 30px;
+  color: white;
+  margin: 0 10px;
+}
+.compcont{
+  background-color: #1ABC9C;
+  color:white !important;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  width:100vw;
+  box-sizing: border-box;
+
+}
