@@ -13,10 +13,9 @@
   display: inline-block;
 }
 .items{
-  display: flex;
+ 
   justify-content: center;
   align-items: center;
-  flex-direction: column;
   margin-top: 20px;
   border-radius: 15px !important;
   position: relative;
@@ -29,9 +28,11 @@
 }
 .items:hover .overlay {
   opacity: 1;
+  display: flex;
 }
 
 .overlay {
+  display: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -39,7 +40,7 @@
   height: 100%;
   background-color: rgba(44, 175, 149, 0.8);
   color: white;
-  display: flex;
+
   justify-content: center;
   align-items: center;
   opacity: 0;
