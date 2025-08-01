@@ -1,9 +1,9 @@
 {
   "routes": {
-    "/rokaia1692006/Start_Angular/tree/main": {},
-    "/rokaia1692006/Start_Angular/tree/main/about": {},
-    "/rokaia1692006/Start_Angular/tree/main/contact": {},
-    "/rokaia1692006/Start_Angular/tree/main/home": {},
-    "/rokaia1692006/Start_Angular/tree/main/portfolio": {}
+    "/Start_Angular": {},
+    "/Start_Angular/about": {},
+    "/Start_Angular/contact": {},
+    "/Start_Angular/home": {},
+    "/Start_Angular/portfolio": {}
   }
 }

@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://github.com/rokaia1692006/Start_Angular/tree/main',
+  basePath: '/Start_Angular',
   supportedLocales: {
   "en-US": ""
 },

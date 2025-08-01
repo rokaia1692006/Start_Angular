@@ -3,7 +3,7 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>Assingment</title>
-  <base href="https://github.com/rokaia1692006/Start_Angular/tree/main">
+  <base href="/Start_Angular">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-4HR7LV3F.css"></head>
